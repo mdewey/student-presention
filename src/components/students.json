@@ -16,10 +16,6 @@
     "intro": "Curt is a born again software developer from Missouri. Having a passion for learning, logic, and intellectual challenges, Curt is rejoining the fold and endeavoring on familiar but new journey."
   },
   {
-    "name": "Reid Hanson",
-    "intro": "Reid has found a new passion for development. He enjoys that software is just one big puzzle to work out. Reid is excited to take his first steps into the world of programming. "
-  },
-  {
     "name": "Nolan",
     "intro": "Fresh out of high school, Nolan is an ambitious developer with an aptitude for solving problems. Once given a problem, he is determined to find an answer, and thrives on overcoming challenges."
   },
@@ -46,5 +42,10 @@
   {
     "name": "Justin Swiger",
     "intro": "Coming from finance and housing inspection industries, Justin is now a developer living in the muggy Tampa Bay area. He enjoys identifying real-world problems and using new technologies to solve them. His passion for efficiency and commitments to clean code, clear communication, and scalable solutions ensures that he will always be prepared to tackle any challenge."
+  },
+  {
+    "name": "Reid Hanson",
+    "intro": "Reid was not able to make it today, but is still very much a part of this cohort",
+    "outro": "During his tenure, Reid has found a new passion for development. He enjoys that software is just one big puzzle to work out. Reid is excited to take his first steps into the world of programming. "
   }
 ]

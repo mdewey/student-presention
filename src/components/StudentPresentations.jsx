@@ -1,9 +1,9 @@
-import React, { useState } from 'react'
-import students from './students.json'
+import React, { useState } from "react";
+import students from "./students.json";
 
 export default function StudentPresentations() {
-  const [pos, setPos] = useState(0)
-  const currentStudent = students[pos]
+  const [pos, setPos] = useState(-1);
+  const currentStudent = students[pos];
   if (currentStudent) {
     return (
       <section>
@@ -18,18 +18,32 @@ export default function StudentPresentations() {
         </main>
         <button onClick={() => setPos(pos + 1)}>next</button>
       </section>
-    )
-  } else {
+    );
+  } else if (pos < 0) {
     return (
       <section>
-        <button onClick={() => setPos(pos - 1)}>Prev</button>
+        <button>Prev</button>
         <main onClick={() => setPos(pos + 1)}>
           <h1>
-            And now we have Antansia from cohort XIII to say a few a words
+            Welcome, talk about the struggles, thank the friends and family,
           </h1>
         </main>
         <button onClick={() => setPos(pos + 1)}>next</button>
       </section>
-    )
+    );
+  } else if (pos >= students.length) {
+    return (
+      <section>
+        <button onClick={() => setPos(pos - 1)}>Prev</button>
+        <main>
+          <h1>
+            Congratulate,them again, remind how far they have come, *shed a
+            tear* tell them how "unique" they are, and how they will always be a
+            special place in my heart, then joke about leaving the nest
+          </h1>
+        </main>
+        <button>next</button>
+      </section>
+    );
   }
 }
