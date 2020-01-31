@@ -1,47 +1,50 @@
 [
   {
-    "name": "Joe Baranski",
-    "intro": "Joe, a recent Florida State grad,  likes to move fast and break things"
+    "name": "Nathan Abresch",
+    "intro": "Nathan is a German born developer who strives to create accessible, user friendly products that surpass expectation. Nathan is both an efficient team worker and a resourceful solo developer."
   },
   {
-    "name": "Olivia CuNNingham",
-    "intro": "Olivia is a graphic designer turned developer, who is always excited to try new things, and , she is looking forward to bringing her new tech skills and design together."
+    "name": "Amgad",
+    "intro": "Amgad is a developer that has moved from Egypt and is determined to become the best version of himself.  He believes  that tackling  every day challenges is crucial to help a person grow. "
   },
   {
-    "name": "Allan Hall",
-    "intro": "A construction worker from Texas, Allan now wants to use his new skills to help pursue his love  of learning"
+    "name": "Charlie Bissell",
+    "intro": "Looking for a new career, Charlie has become an easy-going yet, straight forward developer. Charlie wants to make the world a better place by making meaningful connections and building easy to use products, while working hard and having fun."
   },
   {
-    "name": "Dante Harasz",
-    "intro": "An ex-hollywood stuntman, Dante wants to leverage his expereince to build awesome solutions while being on a diverse team. "
+    "name": "Curt Grogan",
+    "intro": "Curt is a born again software developer from Missouri. Having a passion for learning, logic, and intellectual challenges, Curt is rejoining the fold and endeavoring on familiar but new journey."
   },
   {
-    "name": "Philip Krause",
-    "intro": "With a background in software support, Phil, took his passion for building 2-d games and brought his natural curiousity and drive to the web"
+    "name": "Reid Hanson",
+    "intro": "Reid has found a new passion for development. He enjoys that software is just one big puzzle to work out. Reid is excited to take his first steps into the world of programming. "
   },
   {
-    "name": "Amanda Leaders",
-    "intro": "Amanda, former bookstore employee and current bookworm, She has a knack for learning new ideas and approaching problems with a deep curiosity, coffee and a non-zero amount of sarcasm"
+    "name": "Nolan",
+    "intro": "Fresh out of high school, Nolan is an ambitious developer with an aptitude for solving problems. Once given a problem, he is determined to find an answer, and thrives on overcoming challenges."
   },
   {
-    "name": "Heather Johnson-Ledlie",
-    "intro": "A Florida native, and loving mother, Heather strives to learn new things and is always up for a challenge"
+    "name": "Nikki Kerns",
+    "intro": "Currently work as an IT Director for AD Morgan Corporation and WoofGang Solutions. Nikki is an ambitious professional with a proven track record of success. She prides herself in being an adaptable leader with an ability to work independently or as a team player, while always furthering the team's goals."
   },
   {
-    "name": "Will Murch-i-son",
-    "intro": "An already accomplished IT and Sharepoint Consultant, Will wanted to update his skill and become a well-rounded software developer to provide truely meaningful business solutions. "
+    "name": "Georg",
+    "intro": "Georg is a seasoned software developer who is passionate about creating usable, useful and functional computer applications that help people solve problems more efficiently."
   },
   {
-    "name": "Dawn Ribeiro",
-    "intro": "Former massage therapist,  Dawn is always striving to collaborate on with others to learn new tools for a better solutions."
-  },
-
-  {
-    "name": "Bea Shoe-maker",
-    "intro": "From a decade in the finance industry, Bea is a developer with an eye for design and a passion for making the creative juices flowing anyway she can."
+    "name": "Celeste Sippel",
+    "intro": "A Local business owner and retired Firefighter, Celeste has a passion for building apps that increase efficiency and profitability for businesses and public safety organizations. Celeste thrives on challenging projects and is quick to find the humor in life’s ups and downs, and provide comic relief as necessary."
   },
   {
-    "name": "Hector Velez",
-    "intro": "From Senior Video and Motions Graphics editor to now Software developer, Hector loves a good challenge and to apply his skills to improve the life of everyone around him"
+    "name": "Jeffrey Sojack",
+    "intro": "Army Veteran who worked for the Department of Veteran Affairs after getting his MBA. Jeffrey is a self proclaimed technophile and loves coding and problem solving. "
+  },
+  {
+    "name": "Nathanael",
+    "intro": "Nathan is well rounded and always searching for knowledge. He gravitates towards challenges and enjoys working together to learn with others. Nathan is always striving to  bridge the gap between technology and the user."
+  },
+  {
+    "name": "Justin Swiger",
+    "intro": "Coming from finance and housing inspection industries, Justin is now a developer living in the muggy Tampa Bay area. He enjoys identifying real-world problems and using new technologies to solve them. His passion for efficiency and commitments to clean code, clear communication, and scalable solutions ensures that he will always be prepared to tackle any challenge."
   }
 ]
